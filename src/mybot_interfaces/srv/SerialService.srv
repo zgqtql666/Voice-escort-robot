@@ -1,0 +1,5 @@
+#request
+string serial_request
+---
+#response
+string serial_res
